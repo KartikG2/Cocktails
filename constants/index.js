@@ -134,7 +134,7 @@ const socials = [
  },
 ];
 
-const sliderLists = [
+const allCocktails = [
  {
 	id: 1,
 	name: "Classic Mojito",
@@ -175,9 +175,9 @@ export {
  mockTailLists,
  profileLists,
  featureLists,
+ allCocktails,
  goodLists,
  openingHours,
  storeInfo,
- socials,
- sliderLists,
+ socials
 };
